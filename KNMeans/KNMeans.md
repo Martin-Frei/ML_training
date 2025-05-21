@@ -1,4 +1,4 @@
-# 💠 K-Means Clustering – Summary
+# 💠 K-Means Clustering – Summary "The Pinguins"
 
 ## What is K-Means?
 
